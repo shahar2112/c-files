@@ -1,4 +1,3 @@
-# hello-world
+# c files
 
-Hi all,
-this is a test :)
+some c implementations
